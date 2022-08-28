@@ -1,0 +1,15 @@
+C:\Users\Long\Desktop\WordGuessingGame\bin\Debug\net6.0\WordGuessingGame.exe
+C:\Users\Long\Desktop\WordGuessingGame\bin\Debug\net6.0\WordGuessingGame.deps.json
+C:\Users\Long\Desktop\WordGuessingGame\bin\Debug\net6.0\WordGuessingGame.runtimeconfig.json
+C:\Users\Long\Desktop\WordGuessingGame\bin\Debug\net6.0\WordGuessingGame.dll
+C:\Users\Long\Desktop\WordGuessingGame\bin\Debug\net6.0\WordGuessingGame.pdb
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\WordGuessingGame.csproj.AssemblyReference.cache
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\WordGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\WordGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\WordGuessingGame.AssemblyInfo.cs
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\WordGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\WordGuessingGame.dll
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\refint\WordGuessingGame.dll
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\WordGuessingGame.pdb
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\WordGuessingGame.genruntimeconfig.cache
+C:\Users\Long\Desktop\WordGuessingGame\obj\Debug\net6.0\ref\WordGuessingGame.dll
